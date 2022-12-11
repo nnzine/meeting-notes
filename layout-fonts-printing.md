@@ -35,8 +35,10 @@ but why should we not in fact **escape categorization**?
 
 #### page stitching
 
-saddle stitch is good for up to 68 pages
-glued paperback ("perfect binding") works starting from 28 pages
+saddle stitch is good for up to 68 pages.
+
+glued paperback ("perfect binding") works starting from 28 pages.
+
 [source](https://www.cpcprintpromo.com/saddle-stitch-versus-perfect-bound/)
 
 for DIY, stapling is the way to go.
