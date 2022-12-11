@@ -1,6 +1,6 @@
 # nornzine thread summary - layout, fonts & printing
 
-## attendees: @_marimo, @petezoid, @Gahlord, @radioedit, @eigen
+## attendees: @_marimo, @petezoid, @Gahlord, @radioedit, @alanza, @eigen
 
 ## semantics & identity of the project
 
