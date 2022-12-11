@@ -158,11 +158,11 @@ US-based, 563 employees, 12 M$ in revenues.
 >
 > The benefits of this approach are:
 >
->     low cost of duplication: no trimming, staple bind, usually no color or only 4 or 8 pages of color
->     manufacture close to the audience decreases shipping expenses. It’s notable that Lulu does cover USA, Australia, & Europe though.
->     handmade touches can be added: foregoing the staple for other binding was often a cost-saving measure but evolved into many people genuinely enjoying that aspect of the craft.
->     Direct connection on distribution: an overall 'zine ethos of direct connection is enhanced when a human being who produced the thing slips it into an envelope or delivers it by hand.
->     Archive/Show distribution: conversely, when the distribution of a 'zine is reinforcing a cultural institution like a show or 'zine archive or art collective instead of a capital institution like a PoD service, this is also nice.
+>  - low cost of duplication: no trimming, staple bind, usually no color or only 4 or 8 pages of color
+>  - manufacture close to the audience decreases shipping expenses. It’s notable that Lulu does cover USA, Australia, & Europe though.
+>  - handmade touches can be added: foregoing the staple for other binding was often a cost-saving measure but evolved into many people genuinely enjoying that aspect of the craft.
+>  - Direct connection on distribution: an overall 'zine ethos of direct connection is enhanced when a human being who produced the thing slips it into an envelope or delivers it by hand.
+>  - Archive/Show distribution: conversely, when the distribution of a 'zine is reinforcing a cultural institution like a show or 'zine archive or art collective instead of a capital institution like a PoD service, this is also nice.
 
 
 #### DIY format
